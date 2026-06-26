@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+langgraph
+langchain
+langchain-groq
+gitpython
+chromadb
+sentence-transformers
+asyncpg
+psycopg2-binary
+python-dotenv
+pydantic
+tree-sitter

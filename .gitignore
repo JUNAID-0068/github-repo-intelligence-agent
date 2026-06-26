@@ -1,0 +1,35 @@
+# Node / Frontend
+node_modules/
+dist/
+.vite/
+
+# Python / Backend
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+*.egg-info/
+.eggs/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# ChromaDB vector store
+chroma_db/
+
+# Temporary repo clones
+/tmp/repos/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
